@@ -1,0 +1,33 @@
+[
+    {
+        "ID":"EMP00001",
+        "Name":"John",
+        "Password": "password",
+        "Photo": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+    },
+    {
+        "ID":"EMP00002",
+        "Name":"Sam",
+        "Password": "password",
+        "Photo": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    },
+    {
+        "ID":"EMP00003",
+        "Name":"Tony",
+        "Password": "password",
+        "Photo": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+    },
+    {
+        "ID":"EMP00004",
+        "Name":"Tom",
+        "Password": "password",
+        "Photo": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    },
+    {
+        "ID":"EMP00005",
+        "Name":"Jeff",
+        "Password": "password",
+        "Photo": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+    }
+    
+]

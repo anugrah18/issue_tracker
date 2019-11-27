@@ -1,0 +1,167 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.issueList .card .issueDisplay{
+  size:75%
+}
+
+
+.issueList .card {
+  
+  margin:auto; 
+  margin-bottom: 5px;
+  margin-top: 5px;
+  
+  
+}
+
+.issueList .card:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.issueList .card .info{
+  margin:auto 10px;
+}
+
+.issues-tab {
+margin-bottom:10px;
+}
+
+.issues-tab .btn {
+margin-left:10px;
+margin-right:10px;
+}
+
+.issueDisplay {
+  margin:auto;
+  width:75%;
+  font-size: 0.8rem;
+}
+
+.issueDisplay .card{
+  margin:10px;
+}
+
+.form-control {
+  font-size: 0.75rem;
+}
+
+.custom-select {
+  font-size: 0.75rem;
+}
+
+.btn 
+{
+  margin:10px;
+}
+.issueList {
+  background-color: #dfe8e1;
+  padding: 5px;
+  width: 50%;
+  margin:auto;  
+}
+
+.fa-exclamation-circle {
+  color:red;  
+  float: left;   
+}
+
+.issueList .fa-bug {
+  color: rgb(212, 100, 8);
+}
+
+.issueList .fa-check-circle {
+  color: green;
+}
+
+.assignee_photo {
+  float:right;  
+}
+
+.assignee_photo img {
+  border-radius: 50%;  
+}
+
+.CommentSection{
+  float:left; 
+  width: 100%;
+  margin-top:30px; 
+  margin-bottom: 30px;
+}
+
+.CommenterPhoto{
+  float:left;
+}
+
+.CommenterPhoto img{
+  border-radius:50%;
+}
+
+.CommenterText{
+  float:left;
+  font-size:12px;
+  font-style: arial;
+}
+.CommenterTime{
+  float:left; 
+  font-size:10px;
+  color: #aaa;
+}
+
+.CommentMessageBox{
+  margin:10px;
+  padding:10px;
+}
+
+.navbar img{
+  border-radius:50%;
+}
+
+.navbar{
+  margin:0px;  
+}
+
+nav .navbar-nav li a{
+  color: white !important;
+}
+
+nav .navbar-nav li a:hover{
+  color: #333 !important;
+}
+
+.fa-bars{
+color:white;
+}
+
+.sticky{  
+  z-index: 100;  
+}
+
+.searchBox{
+  width:50%;
+  margin:auto;
+}
+
+.searchBox form{
+  margin-top:50px;
+}

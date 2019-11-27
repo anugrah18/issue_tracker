@@ -1,0 +1,87 @@
+[
+    {
+
+        "issueId": "ID1",
+        "issueTitle": "SSD needs to be replaced due to corruption",
+        "submitter": "John",        
+        "assignee": "Tom",
+        "assignee_photo":"https://randomuser.me/api/portraits/thumb/men/75.jpg",
+        "dateOfCreation": "12/11/2018",
+        "expectedCompletionDate": "2018-12-12",
+        "priority": "High",
+        "details" :"",
+        "category" : "Hardware",
+        "comments": [
+            {
+            "commenterName":"Tom",
+            "commenterPhoto":"https://randomuser.me/api/portraits/thumb/men/75.jpg",
+            "commentText":"Seems like a pin got damaged. Will be replacing the 256GB SSD",
+            "commentDate":"12/11/2018",
+            "commentTime": "13:45"
+            },
+            {
+            "commenterName":"John",
+            "commenterPhoto":"https://randomuser.me/api/portraits/thumb/men/72.jpg",
+            "commentText":"SSD copy and paste takes very long(estimated time: 8 hrs) to copy 10MB data.",
+            "commentDate":"12/11/2018",
+            "commentTime": "11:23"
+            }
+        ],
+        "affectedUserId": "EMP00100",
+        "status": "Open"    
+    },
+    {
+
+        "issueId": "ID2",
+        "issueTitle": "Audio driver corruption",
+        "submitter": "Sam",        
+        "assignee": "Tom",
+        "assignee_photo":"https://randomuser.me/api/portraits/thumb/men/75.jpg",
+        "dateOfCreation": "12/11/2018",
+        "expectedCompletionDate": "2018-12-15",
+        "priority": "Low",
+        "details" :"",
+        "category" : "Driver",
+        "comments": [
+           
+        ],
+        "affectedUserId": "EMP00101",
+        "status": "Open"    
+    },
+    {
+
+        "issueId": "ID3",
+        "issueTitle": "USB port replacement",
+        "submitter": "Sam",        
+        "assignee": "Tom",
+        "assignee_photo":"https://randomuser.me/api/portraits/thumb/men/75.jpg",
+        "dateOfCreation": "12/11/2018",
+        "expectedCompletionDate": "2018-12-17",
+        "priority": "Low",
+        "details" :"",
+        "category" : "Hardware",
+        "comments": [
+            
+        ],
+        "affectedUserId": "EMP00102",
+        "status": "Closed"    
+    },
+    {
+        
+        "issueId": "ID4",
+        "issueTitle": "Windows 10 BSOD issue",
+        "submitter": "Tony",        
+        "assignee": "Jeff",
+        "assignee_photo":"https://randomuser.me/api/portraits/thumb/men/76.jpg",
+        "dateOfCreation": "12/11/2018",
+        "expectedCompletionDate": "2018-12-13",
+        "priority": "High",
+        "details" :"",
+        "category" : "Software",
+        "comments": [
+        
+        ],
+        "affectedUserId": "EMP00103",
+        "status": "Open"    
+    }
+]
